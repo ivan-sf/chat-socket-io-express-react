@@ -36,7 +36,7 @@ La carpeta "client" contiene el código del cliente de React, que funciona como 
 Este proyecto utiliza ES modules para una mejor organización y mantenimiento del código.
 
 ## Uso
-Una vez que se haya ejecutado correctamente el servidor, puedes acceder a la aplicación de chat a través de tu navegador en http://localhost:3000. Puedes abrir varias pestañas para simular múltiples usuarios y comenzar a chatear en tiempo real.
+Una vez que se haya ejecutado correctamente el servidor, puedes acceder a la aplicación de chat a través de tu navegador en http://localhost:8080. Puedes abrir varias pestañas para simular múltiples usuarios y comenzar a chatear en tiempo real.
 
 ## Contribución
 Si deseas contribuir a este proyecto, por favor, haz un fork y envía tus cambios a través de una solicitud de pull. Estamos abiertos a todas las sugerencias y mejoras.
